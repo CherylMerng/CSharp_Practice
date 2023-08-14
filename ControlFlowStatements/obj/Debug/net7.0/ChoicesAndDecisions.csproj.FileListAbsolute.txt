@@ -1,0 +1,15 @@
+D:\IT Practice\C#\ChoicesAndDecisions\bin\Debug\net7.0\ChoicesAndDecisions.exe
+D:\IT Practice\C#\ChoicesAndDecisions\bin\Debug\net7.0\ChoicesAndDecisions.deps.json
+D:\IT Practice\C#\ChoicesAndDecisions\bin\Debug\net7.0\ChoicesAndDecisions.runtimeconfig.json
+D:\IT Practice\C#\ChoicesAndDecisions\bin\Debug\net7.0\ChoicesAndDecisions.dll
+D:\IT Practice\C#\ChoicesAndDecisions\bin\Debug\net7.0\ChoicesAndDecisions.pdb
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ChoicesAndDecisions.csproj.AssemblyReference.cache
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ChoicesAndDecisions.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ChoicesAndDecisions.AssemblyInfoInputs.cache
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ChoicesAndDecisions.AssemblyInfo.cs
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ChoicesAndDecisions.csproj.CoreCompileInputs.cache
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ChoicesAndDecisions.dll
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\refint\ChoicesAndDecisions.dll
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ChoicesAndDecisions.pdb
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ChoicesAndDecisions.genruntimeconfig.cache
+D:\IT Practice\C#\ChoicesAndDecisions\obj\Debug\net7.0\ref\ChoicesAndDecisions.dll

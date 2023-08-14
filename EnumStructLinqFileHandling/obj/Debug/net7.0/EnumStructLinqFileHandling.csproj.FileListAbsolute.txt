@@ -1,0 +1,15 @@
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\bin\Debug\net7.0\EnumStructLinqFileHandling.exe
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\bin\Debug\net7.0\EnumStructLinqFileHandling.deps.json
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\bin\Debug\net7.0\EnumStructLinqFileHandling.runtimeconfig.json
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\bin\Debug\net7.0\EnumStructLinqFileHandling.dll
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\bin\Debug\net7.0\EnumStructLinqFileHandling.pdb
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\EnumStructLinqFileHandling.csproj.AssemblyReference.cache
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\EnumStructLinqFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\EnumStructLinqFileHandling.AssemblyInfoInputs.cache
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\EnumStructLinqFileHandling.AssemblyInfo.cs
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\EnumStructLinqFileHandling.csproj.CoreCompileInputs.cache
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\EnumStructLinqFileHandling.dll
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\refint\EnumStructLinqFileHandling.dll
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\EnumStructLinqFileHandling.pdb
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\EnumStructLinqFileHandling.genruntimeconfig.cache
+D:\IT Practice\C#\C# Practice\EnumStructLinqFileHandling\obj\Debug\net7.0\ref\EnumStructLinqFileHandling.dll

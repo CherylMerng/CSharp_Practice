@@ -1,0 +1,15 @@
+D:\IT Practice\C#\C# Practice\OOPPart2\bin\Debug\net7.0\OOPPart2.exe
+D:\IT Practice\C#\C# Practice\OOPPart2\bin\Debug\net7.0\OOPPart2.deps.json
+D:\IT Practice\C#\C# Practice\OOPPart2\bin\Debug\net7.0\OOPPart2.runtimeconfig.json
+D:\IT Practice\C#\C# Practice\OOPPart2\bin\Debug\net7.0\OOPPart2.dll
+D:\IT Practice\C#\C# Practice\OOPPart2\bin\Debug\net7.0\OOPPart2.pdb
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\OOPPart2.csproj.AssemblyReference.cache
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\OOPPart2.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\OOPPart2.AssemblyInfoInputs.cache
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\OOPPart2.AssemblyInfo.cs
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\OOPPart2.csproj.CoreCompileInputs.cache
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\OOPPart2.dll
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\refint\OOPPart2.dll
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\OOPPart2.pdb
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\OOPPart2.genruntimeconfig.cache
+D:\IT Practice\C#\C# Practice\OOPPart2\obj\Debug\net7.0\ref\OOPPart2.dll

@@ -1,0 +1,15 @@
+D:\IT Practice\C#\Basics\bin\Debug\net7.0\Basics.exe
+D:\IT Practice\C#\Basics\bin\Debug\net7.0\Basics.deps.json
+D:\IT Practice\C#\Basics\bin\Debug\net7.0\Basics.runtimeconfig.json
+D:\IT Practice\C#\Basics\bin\Debug\net7.0\Basics.dll
+D:\IT Practice\C#\Basics\bin\Debug\net7.0\Basics.pdb
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\Basics.csproj.AssemblyReference.cache
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\Basics.AssemblyInfoInputs.cache
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\Basics.AssemblyInfo.cs
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\Basics.csproj.CoreCompileInputs.cache
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\Basics.dll
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\refint\Basics.dll
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\Basics.pdb
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\Basics.genruntimeconfig.cache
+D:\IT Practice\C#\Basics\obj\Debug\net7.0\ref\Basics.dll
